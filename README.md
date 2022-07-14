@@ -1,6 +1,9 @@
 # Version Control with Git
 
-This is the repo for [Udacity's Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123). 
+This is the repo for [Udacity's Version Control with Git course]
+(https://www.udacity.com/course/version-control-with-git--ud123). It blongs to the student Thiago Vieira Magalhães.
+
+ 
 In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
 
 This repo contains the source code of a blog project that will be used throughout the course.

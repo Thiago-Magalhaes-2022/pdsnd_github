@@ -2,3 +2,5 @@ project.docx
 .DS_Store
 .github/**
 *.css
+app.css
+app.js
